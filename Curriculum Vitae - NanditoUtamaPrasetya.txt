@@ -1,0 +1,30 @@
+Nama			: Nandito Utama Prasetya
+
+TTL			: Probolinggo, 2 November 2000
+
+Jenis Kelamin		: Laki-Laki
+
+Agama			: Islam
+
+Alamat			: Perum Asabri Probolinggo Indah No. 116E
+		  	  RT. 3 RW. 12
+
+No. HP			: 082233511916
+
+Pekerjaan		: Pelajar / Mahasiswa
+
+Fakultas		: Informatika
+
+Prodi			: S1 Rekayasa Perangkat Lunak
+
+Kelas			: SE-43-01
+
+Email			: nanditoutamaprasetya@gmail.com
+
+Email Student		: nanditoup@student.telkomuniversity.ac.id
+
+Riwayat Pendidikan	: TK 	: TK Taman Indria 1
+			  SD 	: SD Negeri Tisnonegaran 2
+			  SMP	: SMP Negeri 7 Probolinggo
+			  SMK	: SMK Negeri 1 Probolinggo
+			
